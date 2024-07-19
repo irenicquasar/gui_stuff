@@ -31,8 +31,8 @@ To get started with the Note-Taking Assistant, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/note-taking-assistant.git
-    cd note-taking-assistant
+    git clone https://github.com/irenicquasar/gui_stuff.git
+    cd note-taking-app
     ```
 
 2. **Create a virtual environment (optional but recommended):**
