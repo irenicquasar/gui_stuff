@@ -2,6 +2,11 @@
 
 Welcome to the Note-Taking Assistant repository! This project provides a sophisticated note-taking application powered by advanced language models and web search tools. It allows users to manage, expand, and enhance their notes using AI-driven insights.
 
+## Medium Article
+
+For a detailed walkthrough of how this application was built, check out my Medium article: [Building a Smart Note-Taking Assistant with LangChain and Groq](https://medium.com/@insatiablerohit/building-a-smart-note-taking-assistant-with-langchain-and-groq-part-0-laying-the-foundation-dde4297e07d4).
+
+
 ## Features
 
 - **Note Management**: Save and manage your notes locally.
