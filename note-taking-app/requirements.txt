@@ -1,0 +1,13 @@
+langchain_community
+langgraph
+Flask==2.3.2
+langchain 
+langchain-core
+langchain-groq
+langchain-community
+langgraph
+typing-extensions==4.7.1
+requests==2.28.1  
+httpx
+duckduckgo-search
+
